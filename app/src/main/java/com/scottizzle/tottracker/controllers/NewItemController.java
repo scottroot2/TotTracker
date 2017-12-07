@@ -5,4 +5,5 @@ package com.scottizzle.tottracker.controllers;
  */
 
 public class NewItemController extends ControllerBase {
+
 }
